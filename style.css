@@ -1,0 +1,8 @@
+header{
+    background-image: url('fullscreen.webp');
+    background-size: cover;
+    min-height: 100vh;
+}
+.text{
+    padding-top: 100px;
+}
